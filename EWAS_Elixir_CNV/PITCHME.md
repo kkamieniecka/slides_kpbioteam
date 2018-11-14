@@ -96,8 +96,8 @@ The aims of the Community, as set out in its application, are to:
 
 ####  CNV Detection Pipelines
 
-Multiples initiatives have been made to produce optimal pipelines to detect CNV using micro-array, WES or WGS data.
-To reach this objective, three tasks are proposed: 
+@size[0.5em](Multiples initiatives have been made to produce optimal pipelines to detect CNV using micro-array, WES or WGS data.
+To reach this objective, three tasks are proposed:)
 @ul
 - will establish the list of available pipelines/software as well as partners’ local solutions to detect CNV from gene panels, WES, shallow and deep WGS, array CGH and SNP microarrays.
 
@@ -110,7 +110,7 @@ To reach this objective, three tasks are proposed:
 
 ####  Creation of Innovative Tools
 
-CNVs could involve large genomic regions encompassing multiple genes. In addition, in recessive diseases, CNVs can alter one allele of a specific gene, while the second one could be altered by Short Nucleotide Variations (SNV). 
+@size[0.5em](CNVs could involve large genomic regions encompassing multiple genes. In addition, in recessive diseases, CNVs can alter one allele of a specific gene, while the second one could be altered by Short Nucleotide Variations.) 
 @ul
 - define CNV annotations including: type; genotype; genes and transcripts; expression level; exons; regulatory elements; breakpoints/ fusion fragments for WGS only (allowing detection of tandem duplications vs. inverted duplications and translocations).
 - develop a specific pipeline to interpret duplications as tandem, inverted or translocation duplications may result in very different phenotypes.
@@ -124,10 +124,10 @@ CNVs could involve large genomic regions encompassing multiple genes. In additio
 
 ---
 ####  Alignment with ELIXIR platforms
-The h-CNV communities objectives have many links to ELIXIR platforms as illustrated below:
+@size[0.5em](The h-CNV communities objectives have many links to ELIXIR platforms as illustrated below:)
 
 ![an image](EWAS_Elixir_CNV/images/elixir.png)
 
 ---
 #### Summary
-@size[0.3em](We have develop a tool suite for population epigenetics analysis. Researchers can easily investigate methylation changes in multiple human phenotype cases i.e. weight, high, age. We encourage YOU to explore accessibility, reproducibility and serviceability of EWAS suite and pipelines. In addition growing interest for epigenomics and genomics including CNV detection and interpretation in human diseases will ensure the global recognition and expansion of the community and will trigger many interactions both for other ELIXIR Communities as the Marine Metagenomics and Plant Sciences and industry.) 
+@size[0.5em](We have develop a tool suite for population epigenetics analysis. Researchers can easily investigate methylation changes in multiple human phenotype cases i.e. weight, high, age. We encourage YOU to explore accessibility, reproducibility and serviceability of EWAS suite and pipelines. In addition growing interest for epigenomics and genomics including CNV detection and interpretation in human diseases will ensure the global recognition and expansion of the community and will trigger many interactions both for other ELIXIR Communities as the Marine Metagenomics and Plant Sciences and industry.) 
