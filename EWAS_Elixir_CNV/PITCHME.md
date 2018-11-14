@@ -32,7 +32,7 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 #### Galaxy server in Centre for Skin Sciences
 @ul
- - More than 200 bioinformatics tools integrated allowing transcriptomics, epigenetics analysis and large scale data visualization.
+- More than 200 bioinformatics tools integrated allowing transcriptomics, epigenetics analysis and large scale data visualization.
 - Available to CSS researchers as a web-based platform.
 - Biomedical researchers without programming experience can easily apply tools and workflows to perform transcriptomics, genomics, epigenetics analysis.
 @ulend
