@@ -33,24 +33,22 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 ---
 
 ### Galaxy server in Centre for Skin Sciences
-@size[0.5em](
-- More than 200 bioinformatics tools integrated allowing transcriptomics, epigenetics analysis and large scale data visualization
-- Available to CSS researchers as a web-based platform.
-- Biomedical researchers without programming experience can easily apply tools and workflows to perform transcriptomics, genomics, epigenetics analysis)
+@size[0.5em]( - More than 200 bioinformatics tools integrated allowing transcriptomics, epigenetics analysis and large scale data visualization)
+@size[0.5em](- Available to CSS researchers as a web-based platform.)
+@size[0.5em](- Biomedical researchers without programming experience can easily apply tools and workflows to perform transcriptomics, genomics, epigenetics analysis)
 
 ---
 
 ### Research Software Development
-@size[0.5em](
-- Determining  genetic and non-genetic factors in disease aetiology is one of the principal challenges in clinical and biomedical research. 
-- Our recently developed suite provides a group of integrated tools that combine analytical methods to analysis epigenetics data into a range of handy easy to use pipelines.)
+@size[0.5em](- Determining  genetic and non-genetic factors in disease aetiology is one of the principal challenges in clinical and biomedical research.)
+@size[0.5em](- Our recently developed suite provides a group of integrated tools that combine analytical methods to analysis epigenetics data into a range of handy easy to use pipelines.)
 
 ![workflow](EWAS_Elixir_CNV/images/workflow.png)
 ---
 
 ### Training in Epigenetics
 
-We have also provided training sessions and interactive tours for user self-learning. The training materials are freely accessible at the Galaxy project Github repository. Such training and tours guide users through an entire analysis.
+@size[0.5em](We have also provided training sessions and interactive tours for user self-learning. The training materials are freely accessible at the Galaxy project Github repository. Such training and tours guide users through an entire analysis.)
 
 ![an image](EWAS_Elixir_CNV/images/load.png)
 ---
@@ -63,13 +61,13 @@ We have also provided training sessions and interactive tours for user self-lear
 
 ### Epigenetics Data Analysis
 
-#1 The analysis combines 6 main steps:
-#2 Raw intensity data loading (.idat files)
-#3 Preprocessing and optional normalization
-#4 Quality assessment and control step
-#5 Single nucleotide polymorphism finding and removal
-#6 Differentially methylated positions (DMP) and regions (DMR) finding with respect to a phenotype covariate
-#7 Functional annotation and graphical representation
+@size[0.5em](#1 The analysis combines 6 main steps:)
+@size[0.5em](#2 Raw intensity data loading .idat files)
+@size[0.5em](#3 Preprocessing and optional normalization)
+@size[0.5em](#4 Quality assessment and control step)
+@size[0.5em](#5 Single nucleotide polymorphism finding and removal)
+@size[0.5em](#6 Differentially methylated positions (DMP) and regions (DMR) finding with respect to a phenotype covariate)
+@size[0.5em](#7 Functional annotation and graphical representation)
 
 
 ---
