@@ -4,7 +4,7 @@ Dr Krzysztof Poterlowicz <!-- .element: class="whitetext" -->
 
 ---
 
-### Topic
+### Aims
 
 - EWAS tool development
 - Training
@@ -15,7 +15,23 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 ---
 
-### Another topic
+### EWAS tool development
+
+With an image
+
+![an image](https://imgs.xkcd.com/comics/dna.png)
+
+---
+
+### Training
+
+With an image
+
+![an image](https://imgs.xkcd.com/comics/dna.png)
+
+---
+
+### Elixir-CNV community
 
 With an image
 
