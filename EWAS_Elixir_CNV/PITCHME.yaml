@@ -2,7 +2,7 @@
 theme : white
 theme-override : assets/css/PITCHME.css
 #background : assets/images/simple-blue.jpg
-logo : images/logo.jpeg
+logo : assets/images/logo.jpeg
 
 # convex, concave, default, fade, none, slide and zoom (default: slide)
 transition : none
