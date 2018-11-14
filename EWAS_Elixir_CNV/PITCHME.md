@@ -61,13 +61,13 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 ### Epigenetics Data Analysis
 
-@size[0.5em](The analysis combines 6 main steps:)
-@size[0.5em](-1 Raw intensity data loading .idat files)
-@size[0.5em](-2 Preprocessing and optional normalization)
-@size[0.5em](-3 Quality assessment and control step)
-@size[0.5em](-4 Single nucleotide polymorphism finding and removal)
-@size[0.5em](-5 Differentially methylated positions - DMP and regions - DMR finding with respect to a phenotype covariate)
-@size[0.5em](-6 Functional annotation and graphical representation)
+@size[0.5em](The analysis combines 6 main steps:
+#1 Raw intensity data loading .idat files
+#2 Preprocessing and optional normalization
+#3 Quality assessment and control step
+#4 Single nucleotide polymorphism finding and removal
+#5 Differentially methylated positions - DMP and regions - DMR finding with respect to a phenotype covariate
+#6 Functional annotation and graphical representation)
 
 
 ---
