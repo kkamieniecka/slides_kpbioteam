@@ -19,9 +19,9 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 @size[0.5em](The aim of our project was to develop a population-wide DNA methylation pipeline that is easy to apply and compatible with routine clinical and biological use.)
 
----?image=EWAS_Elixir_CNV/images/epigenetics.jpg&size=40% auto
+---?image=EWAS_Elixir_CNV/images/epigenetics.jpg&size=60% auto
 
-### Epigenome-wide Association Studies
+@title(Epigenome-wide Association Studies) 
 
 ---
 
