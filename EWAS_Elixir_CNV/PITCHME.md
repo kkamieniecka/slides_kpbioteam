@@ -48,6 +48,8 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 ---?image=EWAS_Elixir_CNV/images/workflow.png
 
+---
+
 #### Training in Epigenetics
 
 @size[0.5em](We have also provided training sessions and interactive tours for user self-learning. The training materials are freely accessible at the Galaxy project Github repository. Such training and tours guide users through an entire analysis.)
