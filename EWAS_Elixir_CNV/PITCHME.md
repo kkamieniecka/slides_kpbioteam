@@ -1,4 +1,4 @@
-# My Title
+# EWAS tool development / Training / Elixir-CNV community
 
 Cover slide text
 more text with custom stylin <!-- .element: class="whitetext" -->
