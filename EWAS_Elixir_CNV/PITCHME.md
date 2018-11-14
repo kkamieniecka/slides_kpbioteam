@@ -58,13 +58,13 @@ With the rapidly increasing volume of epigenetics data available, computer-based
 
 ### Epigenetics Data Analysis
 
-1 The analysis combines 6 main steps:
-2 Raw intensity data loading (.idat files)
-3 Preprocessing and optional normalization
-4 Quality assessment and control step
-5 Single nucleotide polymorphism finding and removal
-6 Differentially methylated positions (DMP) and regions (DMR) finding with respect to a phenotype covariate
-7 Functional annotation and graphical representation
+#1 The analysis combines 6 main steps:
+#2 Raw intensity data loading (.idat files)
+#3 Preprocessing and optional normalization
+#4 Quality assessment and control step
+#5 Single nucleotide polymorphism finding and removal
+#6 Differentially methylated positions (DMP) and regions (DMR) finding with respect to a phenotype covariate
+#7 Functional annotation and graphical representation
 
 
 ---
