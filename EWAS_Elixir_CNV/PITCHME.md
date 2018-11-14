@@ -98,11 +98,11 @@ The aims of the Community, as set out in its application, are to:
 
 @size[0.5em](Multiples initiatives have been made to produce optimal pipelines to detect CNV using micro-array, WES or WGS data. To reach this objective, three tasks are proposed:)
 @ul
-- will establish the list of available pipelines/software as well as partners’ local solutions to detect CNV from gene panels, WES, shallow and deep WGS, array CGH and SNP microarrays.
+- will establish the list of available pipelines/software as well as partners
 
-- will benchmark these systems using provided datasets to select the most sensitive, specific, reliable and rapid systems for each dataset for germline and somatic CNVs
+- will benchmark systems using provided datasets 
 
-- will optimize the selected generated pipelines to increase performance on ELIXIR compute nodes and define optimal parameters and guidelines to help end-users to efficiently and reliably detect CNV in various situations through the ELIXIR training platform.
+- will optimize the selected generated pipelines 
 @ulend
 
 ---
