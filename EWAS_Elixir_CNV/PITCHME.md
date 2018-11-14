@@ -49,6 +49,8 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 ---?image=EWAS_Elixir_CNV/images/load.png
 
+---
+
 ### EWAS - Applications
 
 @size[0.5em](With the rapidly increasing volume of epigenetics data available, computer-based analysis of heritable changes in gene expression becomes more and more feasible. Many genome-wide epigenetics studies have focused on generation of the data, however data interpretation is a challenge now. Risk evaluation, disease management and novel therapeutic development are prompting researchers to find novel bioinformatic frameworks and approaches.  In this regard we propose a user friendly tool suite available via Galaxy platform 'EWAS-Galaxy'. This tools suite allows life scientist to run complex epigenetics analyse.)
