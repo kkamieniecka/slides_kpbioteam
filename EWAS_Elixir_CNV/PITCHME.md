@@ -17,7 +17,7 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 ### EWAS tool development
 
-.small[The aim of our project was to develop a population-wide DNA methylation pipeline that is easy to apply and compatible with routine clinical and biological use.]
+The aim of our project was to develop a population-wide DNA methylation pipeline that is easy to apply and compatible with routine clinical and biological use.
 
 ---
 
