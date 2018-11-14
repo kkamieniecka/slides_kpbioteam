@@ -58,17 +58,13 @@ An open-source Galaxy platform used as server base
 
 ### Training in Epigenetics
 
-With an image
-
-![an image](https://imgs.xkcd.com/comics/dna.png)
+We have also provided training sessions and interactive tours for user self-learning. The training materials are freely accessible at the Galaxy project Github repository \cite{training}. Such training and tours guide users through an entire analysis. The following steps and notes help users to explore and better understand the concept. Slides and hands-on instruction describes the analysis workflow, all necessary input files are ready-to-use via Zenodo, as well as a Galaxy Interactive Tour, and a tailor-made Galaxy Docker image for the corresponding data analysis.
 
 ---
 
 ### EWAS - Applications
 
-With an image
-
-![an image](https://imgs.xkcd.com/comics/dna.png)
+With the rapidly increasing volume of epigenetics data available, computer-based analysis of heritable changes in gene expression becomes more and more feasible. Many genome-wide epigenetics studies have focused on generation of the data, however data interpretation is a challenge now. Risk evaluation, disease management and novel therapeutic development are prompting researchers to find novel bioinformatic frameworks and approaches.  In this regard we propose a user friendly tool suite available via Galaxy platform 'EWAS-Galaxy'. This tools suite allows life scientist to run complex epigenetics analyse.
 
 ---
 
