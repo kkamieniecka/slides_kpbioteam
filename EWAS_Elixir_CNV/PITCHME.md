@@ -96,8 +96,7 @@ The aims of the Community, as set out in its application, are to:
 
 ####  CNV Detection Pipelines
 
-@size[0.5em](Multiples initiatives have been made to produce optimal pipelines to detect CNV using micro-array, WES or WGS data.
-To reach this objective, three tasks are proposed:)
+@size[0.5em](Multiples initiatives have been made to produce optimal pipelines to detect CNV using micro-array, WES or WGS data. To reach this objective, three tasks are proposed:)
 @ul
 - will establish the list of available pipelines/software as well as partners’ local solutions to detect CNV from gene panels, WES, shallow and deep WGS, array CGH and SNP microarrays.
 
