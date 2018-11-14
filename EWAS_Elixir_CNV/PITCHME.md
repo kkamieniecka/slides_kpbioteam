@@ -42,13 +42,12 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 @size[0.5em](- Our recently developed suite provides a group of integrated tools that combine analytical methods to analysis epigenetics data into a range of handy easy to use pipelines.)
 
 ![workflow scale-20](EWAS_Elixir_CNV/images/workflow.png)
----
+
+---?image=EWAS_Elixir_CNV/images/load.png&position=left&size=40% 100%
 
 ### Training in Epigenetics
 
 @size[0.5em](We have also provided training sessions and interactive tours for user self-learning. The training materials are freely accessible at the Galaxy project Github repository. Such training and tours guide users through an entire analysis.)
-
-![an image scale-90](EWAS_Elixir_CNV/images/load.png)
 ---
 
 ### EWAS - Applications
