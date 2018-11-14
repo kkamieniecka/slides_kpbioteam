@@ -25,7 +25,7 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 #### Epigenome-wide Association Studies
 
-![ewas](EWAS_Elixir_CNV/images/epigenetics.jpg&position=bottom&size=55%)
+![ewas](EWAS_Elixir_CNV/images/epigenetics.jpg)
 ---
 
 @size[0.5em](Epigenome-wide association studies - EWAS analyse genome-wide activity of epigenetic marks in cohorts of different individuals to find associations between epigenetic variation and phenotype. With its high accuracy and low input DNA requirements, the llumina 450k Methylation Assay has became one of the most comprehensive EWAS study solutions. Unfortunately, analysis of the existing 450k data requires considerable programming knowledge and experience as well as high-performance computational hardware.)
@@ -61,14 +61,15 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 ### Epigenetics Data Analysis
 
+@ul
 The analysis combines 6 main steps:
-#1 Raw intensity data loading .idat files
-#2 Preprocessing and optional normalization
-#3 Quality assessment and control step
-#4 Single nucleotide polymorphism finding and removal
-#5 Differentially methylated positions and regions finding with respect to a phenotype covariate
-#6 Functional annotation and graphical representation
-
+- 1 Raw intensity data loading .idat files
+- 2 Preprocessing and optional normalization
+- 3 Quality assessment and control step
+- 4 Single nucleotide polymorphism finding and removal
+- 5 Differentially methylated positions and regions finding with respect to a phenotype covariate
+- 6 Functional annotation and graphical representation
+@ulend
 
 ---
 
