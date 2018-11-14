@@ -42,12 +42,11 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 #### Research Software Development
 @ul
 - Determining  genetic and non-genetic factors in disease aetiology is one of the principal challenges in clinical and biomedical research.
+
 - Our recently developed suite provides a group of integrated tools that combine analytical methods to analysis epigenetics data into a range of handy easy to use pipelines.
 @ulend
 
-![workflow](EWAS_Elixir_CNV/images/workflow.png)
-
----
+---?image=EWAS_Elixir_CNV/images/workflow.png
 
 #### Training in Epigenetics
 
