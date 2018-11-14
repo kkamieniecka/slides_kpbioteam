@@ -1,15 +1,14 @@
 # EWAS tool development / Training / Elixir-CNV community
 
-Cover slide text
-more text with custom stylin <!-- .element: class="whitetext" -->
+Dr Krzysztof Poterlowicz <!-- .element: class="whitetext" -->
 
 ---
 
 ### Topic
 
-- List item 1
-- List item 2
-- List item 3
+- EWAS tool development
+- Training
+- Elixir-CNV community
 
 Note:
 this is how you add speaker notes. Can view these in presentation mode by pressing "S"
