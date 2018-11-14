@@ -25,7 +25,8 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 #### Epigenome-wide Association Studies
 
-![ewas scale-50 ](EWAS_Elixir_CNV/images/epigenetics.jpg)
+---?image=WAS_Elixir_CNV/images/epigenetics.jpg&size=60% auto
+
 ---
 
 @size[0.5em](Epigenome-wide association studies - EWAS analyse genome-wide activity of epigenetic marks in cohorts of different individuals to find associations between epigenetic variation and phenotype. With its high accuracy and low input DNA requirements, the llumina 450k Methylation Assay has became one of the most comprehensive EWAS study solutions. Unfortunately, analysis of the existing 450k data requires considerable programming knowledge and experience as well as high-performance computational hardware.)
