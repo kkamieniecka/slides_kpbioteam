@@ -94,11 +94,11 @@ The aims of the Community, as set out in its application, are to:
 Multiples initiatives have been made to produce optimal pipelines to detect CNV using micro-array, WES or WGS data.
 To reach this objective, three tasks are proposed: 
 @ul
--1.1 will establish the list of available pipelines/software as well as partners’ local solutions to detect CNV from gene panels, WES, shallow and deep WGS, array CGH and SNP microarrays.
+- will establish the list of available pipelines/software as well as partners’ local solutions to detect CNV from gene panels, WES, shallow and deep WGS, array CGH and SNP microarrays.
 
--1.2 will benchmark these systems using datasets from task#2 to select the most sensitive, specific, reliable and rapid systems for each dataset for germline and somatic CNVs. Note that if no system is efficient enough for some conditions, the h-CNV partners will develop new system(s) to address community needs.
+- will benchmark these systems using datasets from task#2 to select the most sensitive, specific, reliable and rapid systems for each dataset for germline and somatic CNVs. Note that if no system is efficient enough for some conditions, the h-CNV partners will develop new system(s) to address community needs.
 
--1.3 will optimize the selected pipelines from task#1.2 to increase performance on ELIXIR compute nodes and define optimal parameters and guidelines to help end-users to efficiently and reliably detect CNV in various situations through the ELIXIR training platform.
+- will optimize the selected pipelines from task#1.2 to increase performance on ELIXIR compute nodes and define optimal parameters and guidelines to help end-users to efficiently and reliably detect CNV in various situations through the ELIXIR training platform.
 @ulend
 
 ---
@@ -121,7 +121,7 @@ CNVs could involve large genomic regions encompassing multiple genes. In additio
 ####  Alignment with ELIXIR platforms
 The h-CNV communities objectives have many links to ELIXIR platforms as illustrated below:
 
-![an image](elixir.png)
+![an image](EWAS_Elixir_CNV/images/elixir.png)
 
 ---
 #### Summary
