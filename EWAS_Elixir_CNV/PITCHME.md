@@ -25,7 +25,7 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 #### Epigenome-wide Association Studies
 
-![scale-70 ewas](EWAS_Elixir_CNV/images/epigenetics.jpg)
+![ewas scale-50 ](EWAS_Elixir_CNV/images/epigenetics.jpg)
 ---
 
 @size[0.5em](Epigenome-wide association studies - EWAS analyse genome-wide activity of epigenetic marks in cohorts of different individuals to find associations between epigenetic variation and phenotype. With its high accuracy and low input DNA requirements, the llumina 450k Methylation Assay has became one of the most comprehensive EWAS study solutions. Unfortunately, analysis of the existing 450k data requires considerable programming knowledge and experience as well as high-performance computational hardware.)
@@ -43,14 +43,14 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 @size[0.5em](- Determining  genetic and non-genetic factors in disease aetiology is one of the principal challenges in clinical and biomedical research.)
 @size[0.5em](- Our recently developed suite provides a group of integrated tools that combine analytical methods to analysis epigenetics data into a range of handy easy to use pipelines.)
 
-![scale-70 workflow](EWAS_Elixir_CNV/images/workflow.png)
+![workflow scale-20](EWAS_Elixir_CNV/images/workflow.png)
 ---
 
 ### Training in Epigenetics
 
 @size[0.5em](We have also provided training sessions and interactive tours for user self-learning. The training materials are freely accessible at the Galaxy project Github repository. Such training and tours guide users through an entire analysis.)
 
-![an image scale-70](EWAS_Elixir_CNV/images/load.png)
+![an image scale-90](EWAS_Elixir_CNV/images/load.png)
 ---
 
 ### EWAS - Applications
