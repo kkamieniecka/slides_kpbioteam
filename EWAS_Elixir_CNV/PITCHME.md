@@ -111,9 +111,9 @@ The aims of the Community, as set out in its application, are to:
 
 @size[0.5em](CNVs could involve large genomic regions encompassing multiple genes. In addition, in recessive diseases, CNVs can alter one allele of a specific gene, while the second one could be altered by Short Nucleotide Variations.) 
 @ul
-- define CNV annotations including: type; genotype; genes and transcripts; expression level; exons; regulatory elements; breakpoints/ fusion fragments for WGS
+- define CNV annotations 
 
-- develop a specific pipeline to interpret duplications as tandem, inverted or translocation duplications may result in very different phenotypes.
+- develop a specific pipeline to interpret duplications as tandem
 
 - will develop specific bioinformatics tools to select candidate genes localized in the CNV region by combining genes' annotations and patients' phenotype.
 @ulend
