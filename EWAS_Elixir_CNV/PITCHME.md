@@ -19,24 +19,11 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 The aim of our project was to develop a population-wide DNA methylation pipeline that is easy to apply and compatible with routine clinical and biological use.
 
----
-
-Epigenome-wide association studies (EWAS) analyse genome-wide activity of epigenetic marks in cohorts of different individuals to find associations between epigenetic variation and phenotype. With its high accuracy and low input DNA requirements, the llumina 450k Methylation Assay has became one of the most comprehensive EWAS study solutions. Unfortunately, analysis of the existing 450k data requires considerable programming knowledge and experience as well as high-performance computational hardware. 
-
 ---?image=EWAS_Elixir_CNV/images/epigenetics.jpg
 
 ---
 
-### Bioinformatics Infrastructure in University of Bradford
-
-Onsite Linux server: 
-192 GB RAM
-Intel Xeons 32 CPU
-100 TB of NAS storage
- hosts Galaxy platform for researchers in the Centre for Skin Sciences
-
-Amazon Elastic Cloud Compute instances
-An open-source Galaxy platform used as server base
+Epigenome-wide association studies (EWAS) analyse genome-wide activity of epigenetic marks in cohorts of different individuals to find associations between epigenetic variation and phenotype. With its high accuracy and low input DNA requirements, the llumina 450k Methylation Assay has became one of the most comprehensive EWAS study solutions. Unfortunately, analysis of the existing 450k data requires considerable programming knowledge and experience as well as high-performance computational hardware. 
 
 ---
 
@@ -58,8 +45,9 @@ An open-source Galaxy platform used as server base
 
 ### Training in Epigenetics
 
-We have also provided training sessions and interactive tours for user self-learning. The training materials are freely accessible at the Galaxy project Github repository \cite{training}. Such training and tours guide users through an entire analysis. The following steps and notes help users to explore and better understand the concept. Slides and hands-on instruction describes the analysis workflow, all necessary input files are ready-to-use via Zenodo, as well as a Galaxy Interactive Tour, and a tailor-made Galaxy Docker image for the corresponding data analysis.
+We have also provided training sessions and interactive tours for user self-learning. The training materials are freely accessible at the Galaxy project Github repository. Such training and tours guide users through an entire analysis.
 
+![an image](EWAS_Elixir_CNV/images/load.png)
 ---
 
 ### EWAS - Applications
@@ -70,9 +58,14 @@ With the rapidly increasing volume of epigenetics data available, computer-based
 
 ### Epigenetics Data Analysis
 
-With an image
+1 The analysis combines 6 main steps:
+2 Raw intensity data loading (.idat files)
+3 Preprocessing and optional normalization
+4 Quality assessment and control step
+5 Single nucleotide polymorphism finding and removal
+6 Differentially methylated positions (DMP) and regions (DMR) finding with respect to a phenotype covariate
+7 Functional annotation and graphical representation
 
-![an image](https://imgs.xkcd.com/comics/dna.png)
 
 ---
 
