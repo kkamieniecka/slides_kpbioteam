@@ -25,7 +25,7 @@ Epigenome-wide association studies (EWAS) analyse genome-wide activity of epigen
 
 ---
 
-![an image](EWAS_Elixir_CNV/images/epigenome.png)
+---?image=EWAS_Elixir_CNV/images/epigenome.png
 
 ---
 
