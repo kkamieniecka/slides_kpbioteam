@@ -25,7 +25,7 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 #### Epigenome-wide Association Studies
 
----?image=WAS_Elixir_CNV/images/epigenetics.jpg&size=60% auto
+---?image=EWAS_Elixir_CNV/images/epigenetics.jpg&size=60% auto
 
 ---
 
