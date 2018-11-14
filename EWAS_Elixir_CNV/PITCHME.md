@@ -43,7 +43,7 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 ![workflow scale-20](EWAS_Elixir_CNV/images/workflow.png)
 
----?image=EWAS_Elixir_CNV/images/load.png&position=bottom&size=20% 100%
+---?image=EWAS_Elixir_CNV/images/load.png&position=bottom&size=60% 100%
 
 ### Training in Epigenetics
 
