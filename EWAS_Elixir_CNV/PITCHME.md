@@ -32,17 +32,17 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 #### Galaxy server in Centre for Skin Sciences
 @ul
-@size[0.5em]( - More than 200 bioinformatics tools integrated allowing transcriptomics, epigenetics analysis and large scale data visualization)
-@size[0.5em](- Available to CSS researchers as a web-based platform.)
-@size[0.5em](- Biomedical researchers without programming experience can easily apply tools and workflows to perform transcriptomics, genomics, epigenetics analysis)
+ - More than 200 bioinformatics tools integrated allowing transcriptomics, epigenetics analysis and large scale data visualization.
+- Available to CSS researchers as a web-based platform.
+- Biomedical researchers without programming experience can easily apply tools and workflows to perform transcriptomics, genomics, epigenetics analysis.
 @ulend
 
 ---
 
 #### Research Software Development
 @ul
-@size[0.5em](- Determining  genetic and non-genetic factors in disease aetiology is one of the principal challenges in clinical and biomedical research.)
-@size[0.5em](- Our recently developed suite provides a group of integrated tools that combine analytical methods to analysis epigenetics data into a range of handy easy to use pipelines.)
+- Determining  genetic and non-genetic factors in disease aetiology is one of the principal challenges in clinical and biomedical research.
+- Our recently developed suite provides a group of integrated tools that combine analytical methods to analysis epigenetics data into a range of handy easy to use pipelines.
 @ulend
 
 ![workflow](EWAS_Elixir_CNV/images/workflow.png)
