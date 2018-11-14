@@ -66,7 +66,7 @@ The analysis combines 6 main steps:
 #2 Preprocessing and optional normalization
 #3 Quality assessment and control step
 #4 Single nucleotide polymorphism finding and removal
-#5 Differentially methylated positions - DMP and regions - DMR finding with respect to a phenotype covariate
+#5 Differentially methylated positions and regions finding with respect to a phenotype covariate
 #6 Functional annotation and graphical representation
 
 
