@@ -17,7 +17,7 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 ### EWAS tool development
 
-The aim of our project was to develop a population-wide DNA methylation pipeline that is easy to apply and compatible with routine clinical and biological use.
+@size[0.7em](The aim of our project was to develop a population-wide DNA methylation pipeline that is easy to apply and compatible with routine clinical and biological use.)
 
 ---?image=EWAS_Elixir_CNV/images/epigenetics.jpg
 
@@ -52,7 +52,7 @@ We have also provided training sessions and interactive tours for user self-lear
 
 ### EWAS - Applications
 
-With the rapidly increasing volume of epigenetics data available, computer-based analysis of heritable changes in gene expression becomes more and more feasible. Many genome-wide epigenetics studies have focused on generation of the data, however data interpretation is a challenge now. Risk evaluation, disease management and novel therapeutic development are prompting researchers to find novel bioinformatic frameworks and approaches.  In this regard we propose a user friendly tool suite available via Galaxy platform 'EWAS-Galaxy'. This tools suite allows life scientist to run complex epigenetics analyse.
+@size[0.5em](With the rapidly increasing volume of epigenetics data available, computer-based analysis of heritable changes in gene expression becomes more and more feasible. Many genome-wide epigenetics studies have focused on generation of the data, however data interpretation is a challenge now. Risk evaluation, disease management and novel therapeutic development are prompting researchers to find novel bioinformatic frameworks and approaches.  In this regard we propose a user friendly tool suite available via Galaxy platform 'EWAS-Galaxy'. This tools suite allows life scientist to run complex epigenetics analyse.)
 
 ---
 
