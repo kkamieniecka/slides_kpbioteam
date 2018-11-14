@@ -101,9 +101,9 @@ To reach this objective, three tasks are proposed:)
 @ul
 - will establish the list of available pipelines/software as well as partners’ local solutions to detect CNV from gene panels, WES, shallow and deep WGS, array CGH and SNP microarrays.
 
-- will benchmark these systems using datasets from task#2 to select the most sensitive, specific, reliable and rapid systems for each dataset for germline and somatic CNVs. Note that if no system is efficient enough for some conditions, the h-CNV partners will develop new system(s) to address community needs.
+- will benchmark these systems using provided datasets to select the most sensitive, specific, reliable and rapid systems for each dataset for germline and somatic CNVs
 
-- will optimize the selected pipelines from task#1.2 to increase performance on ELIXIR compute nodes and define optimal parameters and guidelines to help end-users to efficiently and reliably detect CNV in various situations through the ELIXIR training platform.
+- will optimize the selected generated pipelines to increase performance on ELIXIR compute nodes and define optimal parameters and guidelines to help end-users to efficiently and reliably detect CNV in various situations through the ELIXIR training platform.
 @ulend
 
 ---
@@ -112,8 +112,10 @@ To reach this objective, three tasks are proposed:)
 
 @size[0.5em](CNVs could involve large genomic regions encompassing multiple genes. In addition, in recessive diseases, CNVs can alter one allele of a specific gene, while the second one could be altered by Short Nucleotide Variations.) 
 @ul
-- define CNV annotations including: type; genotype; genes and transcripts; expression level; exons; regulatory elements; breakpoints/ fusion fragments for WGS only (allowing detection of tandem duplications vs. inverted duplications and translocations).
+- define CNV annotations including: type; genotype; genes and transcripts; expression level; exons; regulatory elements; breakpoints/ fusion fragments for WGS
+
 - develop a specific pipeline to interpret duplications as tandem, inverted or translocation duplications may result in very different phenotypes.
+
 - will develop specific bioinformatics tools to select candidate genes localized in the CNV region by combining genes' annotations and patients' phenotype.
 @ulend
 ---
