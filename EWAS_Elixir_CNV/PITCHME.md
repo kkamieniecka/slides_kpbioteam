@@ -4,7 +4,7 @@ Dr Krzysztof Poterlowicz <!-- .element: class="whitetext" -->
 
 ---
 
-### Aims
+#### Aims
 
 - EWAS tool development
 - Training in Epigenetics
@@ -15,7 +15,7 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 ---
 
-### EWAS tool development
+#### EWAS tool development
 
 @size[0.5em](The aim of our project was to develop a population-wide DNA methylation pipeline that is easy to apply and compatible with routine clinical and biological use.)
 
@@ -30,14 +30,14 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 ---
 
-### Galaxy server in Centre for Skin Sciences
+#### Galaxy server in Centre for Skin Sciences
 @size[0.5em]( - More than 200 bioinformatics tools integrated allowing transcriptomics, epigenetics analysis and large scale data visualization)
 @size[0.5em](- Available to CSS researchers as a web-based platform.)
 @size[0.5em](- Biomedical researchers without programming experience can easily apply tools and workflows to perform transcriptomics, genomics, epigenetics analysis)
 
 ---
 
-### Research Software Development
+#### Research Software Development
 @size[0.5em](- Determining  genetic and non-genetic factors in disease aetiology is one of the principal challenges in clinical and biomedical research.)
 @size[0.5em](- Our recently developed suite provides a group of integrated tools that combine analytical methods to analysis epigenetics data into a range of handy easy to use pipelines.)
 
@@ -45,7 +45,7 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 ---
 
-### Training in Epigenetics
+#### Training in Epigenetics
 
 @size[0.5em](We have also provided training sessions and interactive tours for user self-learning. The training materials are freely accessible at the Galaxy project Github repository. Such training and tours guide users through an entire analysis.)
 
@@ -53,13 +53,13 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 ---
 
-### EWAS - Applications
+#### EWAS - Applications
 
 @size[0.5em](With the rapidly increasing volume of epigenetics data available, computer-based analysis of heritable changes in gene expression becomes more and more feasible. Many genome-wide epigenetics studies have focused on generation of the data, however data interpretation is a challenge now. Risk evaluation, disease management and novel therapeutic development are prompting researchers to find novel bioinformatic frameworks and approaches.  In this regard we propose a user friendly tool suite available via Galaxy platform 'EWAS-Galaxy'. This tools suite allows life scientist to run complex epigenetics analyse.)
 
 ---
 
-### Epigenetics Data Analysis
+#### Epigenetics Data Analysis
 
 @ul
 The analysis combines 6 main steps:
@@ -73,7 +73,7 @@ The analysis combines 6 main steps:
 
 ---
 
-### Elixir-CNV Community
+#### Elixir-CNV Community
 @ul
 The aims of the Community, as set out in its application, are to:
 
@@ -89,7 +89,7 @@ The aims of the Community, as set out in its application, are to:
 @ulend
 ---
 
-###  CNV Detection Pipelines
+####  CNV Detection Pipelines
 
 Multiples initiatives have been made to produce optimal pipelines to detect CNV using micro-array, WES or WGS data.
 To reach this objective, three tasks are proposed: 
@@ -103,7 +103,7 @@ To reach this objective, three tasks are proposed:
 
 ---
 
-###  Creation of Innovative Tools
+####  Creation of Innovative Tools
 
 CNVs could involve large genomic regions encompassing multiple genes. In addition, in recessive diseases, CNVs can alter one allele of a specific gene, while the second one could be altered by Short Nucleotide Variations (SNV). 
 @ul
@@ -113,16 +113,16 @@ CNVs could involve large genomic regions encompassing multiple genes. In additio
 @ulend
 ---
 
-###  FAIRification of h-CNV services and datasets
+####  FAIRification of h-CNV services and datasets
 
 # Findable Accessible Interoperable Reusable
 
 ---
-###  Alignment with ELIXIR platforms
+####  Alignment with ELIXIR platforms
 The h-CNV communities objectives have many links to ELIXIR platforms as illustrated below:
 
 ![an image](elixir.png)
 
 ---
-### Summary
+#### Summary
 We have develop a tool suite for population epigenetics analysis. Researchers can easily investigate methylation changes in multiple human phenotype cases i.e. weight, high, age. We encourage YOU to explore accessibility, reproducibility and serviceability of EWAS suite and pipelines. In addition growing interest for epigenomics and genomics including CNV detection and interpretation in human diseases will ensure the global recognition and expansion of the community and will trigger many interactions both for other ELIXIR Communities as the Marine Metagenomics and Plant Sciences and industry. 
