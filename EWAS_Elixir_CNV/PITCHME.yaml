@@ -2,7 +2,7 @@
 theme : white
 theme-override : assets/css/PITCHME.css
 #background : assets/images/simple-blue.jpg
-logo : slides_kpbioteam/EWAS_Elixir_CNV/images/logo.jpeg
+logo : EWAS_Elixir_CNV/images/logo.jpeg
 
 # convex, concave, default, fade, none, slide and zoom (default: slide)
 transition : none
