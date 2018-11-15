@@ -52,7 +52,7 @@ this is how you add speaker notes. Can view these in presentation mode by pressi
 
 #### Training in Epigenetics
 
-@size[0.5em](We have also provided training sessions and interactive tours for user self-learning. The training materials are freely accessible at the Galaxy project Github repository. Such training and tours guide users through an entire analysis.)
+@size[0.7em](We have also provided training sessions and interactive tours for user self-learning. The training materials are freely accessible at the Galaxy project Github repository. Such training and tours guide users through an entire analysis.)
 
 ---?image=EWAS_Elixir_CNV/images/load.png
 
@@ -106,14 +106,12 @@ Multiples initiatives have been made to produce optimal pipelines to detect CNV 
 ---
 
 ####  Creation of Innovative Tools
-
-CNVs could involve large genomic regions encompassing multiple genes. In addition, in recessive diseases, CNVs can alter one allele of a specific gene, while the second one could be altered by Short Nucleotide Variations.
 @ul
+- develop specific bioinformatics tools to select candidate genes localized in the CNV region by combining genes' annotations and patients' phenotype.
+
 - define CNV annotations 
 
 - develop a specific pipeline to interpret duplications as tandem
-
-- will develop specific bioinformatics tools to select candidate genes localized in the CNV region by combining genes' annotations and patients' phenotype.
 @ulend
 ---
 
