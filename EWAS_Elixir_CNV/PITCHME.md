@@ -121,7 +121,7 @@ Multiples initiatives have been made to produce optimal pipelines to detect CNV 
 
 ---?image=EWAS_Elixir_CNV/images/elixir.png&position=center&size=55% 100%
 
-#### @size[0.6em](Alignment with ELIXIR platforms)
+#### Alignment with ELIXIR platforms
 
 ---
 #### Summary
