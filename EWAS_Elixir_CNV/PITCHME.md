@@ -125,6 +125,10 @@ Multiples initiatives have been made to produce optimal pipelines to detect CNV 
 Alignment with ELIXIR platforms
 @snapend
 
+@snap[east]
+The h-CNV communities objectives have many links to ELIXIR platforms as illustrated.
+@snapend
+
 ---
 #### Summary
 @size[0.5em](We have develop a tool suite for population epigenetics analysis. Researchers can easily investigate methylation changes in multiple human phenotype cases i.e. weight, high, age. We encourage YOU to explore accessibility, reproducibility and serviceability of EWAS suite and pipelines. In addition growing interest for epigenomics and genomics including CNV detection and interpretation in human diseases will ensure the global recognition and expansion of the community and will trigger many interactions both for other ELIXIR Communities as the Marine Metagenomics and Plant Sciences and industry.) 
