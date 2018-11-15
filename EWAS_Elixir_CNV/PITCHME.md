@@ -119,15 +119,9 @@ Multiples initiatives have been made to produce optimal pipelines to detect CNV 
 
 # Findable Accessible Interoperable Reusable
 
----
-
 ---?image=EWAS_Elixir_CNV/images/elixir.png&position=center&size=55% 100%
 
-@title[Get Ready]
-
-
 #### @size[0.6em](Alignment with ELIXIR platforms)
-@size[0.5em](The h-CNV communities objectives have many links to ELIXIR platforms as illustrated below:)
 
 ---
 #### Summary
